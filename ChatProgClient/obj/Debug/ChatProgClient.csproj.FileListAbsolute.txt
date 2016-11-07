@@ -1,0 +1,15 @@
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\ChatProg\ChatProgClient\bin\Debug\ChatProgClient.exe.config
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\ChatProg\ChatProgClient\bin\Debug\ChatProgClient.exe
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\ChatProg\ChatProgClient\bin\Debug\ChatProgClient.pdb
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\ChatProg\ChatProgClient\obj\Debug\ChatProgClient.csprojResolveAssemblyReference.cache
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\ChatProg\ChatProgClient\obj\Debug\View\MainWindow.g.cs
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\ChatProg\ChatProgClient\obj\Debug\App.g.cs
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\ChatProg\ChatProgClient\obj\Debug\ChatProgClient_MarkupCompile.cache
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\ChatProg\ChatProgClient\obj\Debug\ChatProgClient_MarkupCompile.lref
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\ChatProg\ChatProgClient\obj\Debug\View\MainWindow.baml
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\ChatProg\ChatProgClient\obj\Debug\ChatProgClient.g.resources
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\ChatProg\ChatProgClient\obj\Debug\ChatProgClient.Properties.Resources.resources
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\ChatProg\ChatProgClient\obj\Debug\ChatProgClient.csproj.GenerateResource.Cache
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\ChatProg\ChatProgClient\obj\Debug\ChatProgClient.exe
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\ChatProg\ChatProgClient\obj\Debug\ChatProgClient.pdb
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\ChatProg\ChatProgClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
