@@ -15,6 +15,23 @@ namespace ChatProgClient.ViewModel
         #endregion
 
         #region Members definition
+        #region Field members definition
+        private string _outputTextBoxText;
+        public string OutputTextBoxText
+        {
+            get { return _outputTextBoxText; }
+            set { _outputTextBoxText = value; }
+        }
+
+        private string _inputTextBoxText;
+        public string InputTextBoxText
+        {
+            get { return _inputTextBoxText; }
+            set { _inputTextBoxText = value; }
+        }
+        #endregion
+
+        #region Command members definition
         private ICommand _submitCommand;
         public ICommand SubmitCommand
         {
@@ -27,6 +44,7 @@ namespace ChatProgClient.ViewModel
                 return _submitCommand;
             }
         }
+        #endregion
         #endregion
 
         #region Constructors definition

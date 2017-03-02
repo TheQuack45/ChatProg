@@ -20,7 +20,7 @@
             <Menu Grid.Row="0" x:Name="mainMenuBar" VerticalAlignment="Top" Height="20">
                 
             </Menu>
-            <TextBox Grid.Row="1" IsReadOnly="True" Margin="10, 10, 10, 0" VerticalScrollBarVisibility="Auto" x:Name="outputTextBox"/>
+            <TextBox Grid.Row="1" IsReadOnly="True" Margin="10, 10, 10, 0" VerticalScrollBarVisibility="Auto" x:Name="outputTextBox" Text="{Binding Path=OutputTextBoxText}"/>
             <Grid Grid.Row="2">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*"/>
